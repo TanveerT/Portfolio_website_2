@@ -26,14 +26,12 @@ const Certification = () => {
 const Cart=({image} )=>{
      const [showImage,setShowImage]=useState(false)
      const [enlargeimage,setEnlargeimage]=useState(null);
-    // console.log(Images)
-    console.log(showImage,enlargeimage)
+  
     const GettingImage=(e)=>{
-        console.log(e);
+        
         setEnlargeimage(e);
         setShowImage(true);
-        console.log(showImage)
-        console.log(enlargeimage)   
+        
     }
 
    
@@ -43,7 +41,7 @@ const Cart=({image} )=>{
                                 <div className='box'>
                                 <span onClick={()=>setShowImage(false)} className='close'><CgCloseO size={30}/></span>
                                 <img className='enlarge-img' src={enlargeimage} alt='cart_image'/>
-                                {/* <h1>hello image {enlargeimage}</h1> */}
+                                
                                 </div>
                             </div> 
            }
