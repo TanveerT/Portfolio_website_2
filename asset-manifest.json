@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0e711680.css",
-    "main.js": "/static/js/main.ff25f222.js",
+    "main.js": "/static/js/main.aa24a15d.js",
     "static/media/HACK-RANK.png": "/static/media/HACK-RANK.36054e86ec244c700335.png",
     "static/media/img.jpg": "/static/media/img.0869189f84d40a0841fd.jpg",
     "static/media/INFYCERT.jpeg": "/static/media/INFYCERT.249c2d16d09647be52ee.jpeg",
@@ -14,13 +14,14 @@
     "static/media/DP-900.jpeg": "/static/media/DP-900.39805a3e060fca339588.jpeg",
     "static/media/AI-900.jpeg": "/static/media/AI-900.01372fce3da1b95f83ef.jpeg",
     "static/media/AZ-900.jpeg": "/static/media/AZ-900.7aa0c3f99dab3758ec39.jpeg",
+    "static/media/TanveerAhamed.pdf": "/static/media/TanveerAhamed.51967545f9c9a3a51ac0.pdf",
     "static/media/mello.svg": "/static/media/mello.1936237d50083ce188ee5afcc23bee38.svg",
     "index.html": "/index.html",
     "main.0e711680.css.map": "/static/css/main.0e711680.css.map",
-    "main.ff25f222.js.map": "/static/js/main.ff25f222.js.map"
+    "main.aa24a15d.js.map": "/static/js/main.aa24a15d.js.map"
   },
   "entrypoints": [
     "static/css/main.0e711680.css",
-    "static/js/main.ff25f222.js"
+    "static/js/main.aa24a15d.js"
   ]
 }
