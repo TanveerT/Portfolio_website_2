@@ -1,10 +1,5 @@
 import React from 'react'
-// import {IoHomeOutline} from 'react-icons/io5';
-// import {RiContactsLine} from 'react-icons/ri';
-// import {AiOutlineMessage} from 'react-icons/ai';
-// import {BsSun} from 'react-icons/bs';
-// import {GiAchievement} from 'react-icons/gi';
-// import {MdMusicOff} from 'react-icons/md';
+import TanveerAhamed from './TanveerAhamed.pdf'
 import {ReactComponent as Mellosvg} from './mello.svg';
 
 import './About.css';
@@ -30,7 +25,7 @@ const About = () => {
 
                     
             <div className='resume'>
-            <a href='./TanveerAhamed.pdf' download>Resume</a>
+            <a href={TanveerAhamed} download>Resume</a>
             </div>
 
             </div>
