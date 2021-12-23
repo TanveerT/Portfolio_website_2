@@ -19,7 +19,7 @@ const Experience = () => {
 
             {
               ExpData.map((exp,id)=>{
-                console.log(exp)
+
                 return(
                   <CompanyProfile key={id} experience={exp} />
                 )
