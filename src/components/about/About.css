@@ -1,0 +1,76 @@
+.about-container{
+    margin-top: 0rem;
+    display:grid;
+    grid-template-rows: 0.5fr auto;
+    grid-template-areas: 
+    "svg"
+    "about";
+    min-height:100vh; 
+}
+.about{
+    padding:0 2rem;
+    grid-area:about;
+    text-align:center;
+    align-items:center;
+}
+.about > p:nth-child(1){
+    color:lightcoral;
+}
+.about > h1 {
+    color:goldenrod;
+}
+.about-svg{
+    object-fit:contain;
+    width:100%;
+    grid-area:svg;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.resume {
+
+     margin-left: auto;
+     margin-right: auto;
+     width:80px;
+     border: 1px solid goldenrod;
+     padding:10px;
+     border-radius:5px;
+     text-align:center;
+     font-weight: 600;   
+ }
+  .resume:hover {
+     cursor: pointer;
+ }
+  .resume > a {
+     text-decoration: none !important;
+     color: white;
+ }
+
+
+@media only screen and (min-width:800px) {
+
+    .about-container{
+        margin-top:0rem;
+        display:grid;
+        grid-template-columns: 3fr 1fr;
+        grid-template-rows: 1fr;
+        grid-template-areas:
+        "about svg";
+        column-gap:2rem;
+        width:85vw;
+        min-height:100vh;
+        align-items:center;
+        justify-items:stretch;
+    }
+    
+    .about{
+        padding:1rem;
+    }
+    .about-svg{
+        width:20rem;
+    }
+    
+}
+
+
