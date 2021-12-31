@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e711680.css",
-    "main.js": "/static/js/main.aa24a15d.js",
+    "main.css": "/static/css/main.780a1711.css",
+    "main.js": "/static/js/main.2a05cb6a.js",
     "static/media/HACK-RANK.png": "/static/media/HACK-RANK.36054e86ec244c700335.png",
     "static/media/img.jpg": "/static/media/img.0869189f84d40a0841fd.jpg",
     "static/media/INFYCERT.jpeg": "/static/media/INFYCERT.249c2d16d09647be52ee.jpeg",
@@ -17,11 +17,11 @@
     "static/media/TanveerAhamed.pdf": "/static/media/TanveerAhamed.51967545f9c9a3a51ac0.pdf",
     "static/media/mello.svg": "/static/media/mello.1936237d50083ce188ee5afcc23bee38.svg",
     "index.html": "/index.html",
-    "main.0e711680.css.map": "/static/css/main.0e711680.css.map",
-    "main.aa24a15d.js.map": "/static/js/main.aa24a15d.js.map"
+    "main.780a1711.css.map": "/static/css/main.780a1711.css.map",
+    "main.2a05cb6a.js.map": "/static/js/main.2a05cb6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e711680.css",
-    "static/js/main.aa24a15d.js"
+    "static/css/main.780a1711.css",
+    "static/js/main.2a05cb6a.js"
   ]
 }
