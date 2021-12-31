@@ -4,6 +4,6 @@ This website was build using React.
 
 You can visit it at [Tanveer Ahamed](https://tanveerahamed.in).
 
-Don't forget to give Feedback.
+Don't forget to leave Feedback.
 
 ##Thank You
