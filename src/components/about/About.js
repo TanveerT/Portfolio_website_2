@@ -15,12 +15,12 @@ const About = () => {
             <p>Hi I'm </p>
 
             <h1>Tanveer Ahamed</h1>
-            <h1>I play with Data.</h1>
+            <h3 style={{color:'lightblue'}}>I Love building products over WWW!</h3> 
                     
                     
             <p>
-            I'm Data engineer with 1+ years experience wrangling big datasets.
-                Eager to build robust databases that lay the groundwork for revealing game-changing insights at Infosys Limited.
+            I'm System engineer with 2+ years experience wrangling big datasets.
+                Eager to build robust products that lay the groundwork for revealing game-changing insights at Infosys Limited.
             </p>
 
                     
