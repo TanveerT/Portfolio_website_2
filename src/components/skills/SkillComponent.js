@@ -1,8 +1,6 @@
 import "../../App.css";
 import "../../index.css";
 import React, { useState, useEffect } from "react";
-import UseMediaQuery from "../commonComponents/UseMediaQuery";
-import ReactIcon from "../../assets/images/reactjs-icon.svg";
 import { motion, AnimatePresence } from "framer-motion";
 import Modal from "../commonComponents/Modal";
 
@@ -11,7 +9,10 @@ function SkillComponent({ mobileStatus, skillData }) {
 	const [hover, setHover] = useState(false);
 	const [modalOpen, setModalOpen] = useState(false);
 
-	const close = () => setModalOpen(false);
+	const close = () => {
+		setModalOpen(false);
+		setHover(false);
+	};
 	const open = () => setModalOpen(true);
 
 	useEffect(() => {
@@ -55,6 +56,7 @@ function SkillComponent({ mobileStatus, skillData }) {
 						modalOpen={modalOpen}
 						handleClose={close}
 						images={skillData.images}
+						setHover={setHover}
 					/>
 				)}
 			</AnimatePresence>

@@ -1,35 +1,22 @@
+import React from "react";
 
-import React ,{useState}from 'react';
-
-import './Experience.css';
-import CompanyProfile from './CompanyProfile';
-import ExpData from './expdata.js';
-
+import "./Experience.css";
+import CompanyProfile from "./CompanyProfile";
+import ExpData from "./expdata.js";
 
 const Experience = () => {
-  
-    return (
+	return (
+		<div className='exp-container'>
+			<div className='title'>
+				<h2>Experience</h2>
+				<div className='underline exp-underline'></div>
+			</div>
 
-        <div className='exp-container'>
-            <div className='title'>
-                <h2>Experience</h2>
-                <div className='underline exp-underline'></div>
-            </div>
-            
-
-            {
-              ExpData.map((exp,id)=>{
-
-                return(
-                  <CompanyProfile key={id} experience={exp} />
-                )
-
-                }
-              )
-            }
-   
-        </div>       
-    )  
-}
+			{ExpData.map((exp, id) => {
+				return <CompanyProfile key={id} experience={exp} />;
+			})}
+		</div>
+	);
+};
 
 export default Experience;

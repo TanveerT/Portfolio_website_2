@@ -1,10 +1,13 @@
 import React, { useRef } from "react";
+import { motion, useScroll } from "framer-motion";
+import "../../App.css";
 import AboutNew from "../about/AboutNew";
 import Header from "../header/Header";
 import DescriptionNew from "../description/DescriptionNew";
 import Skills from "../skills/Skills";
-import { motion, useScroll } from "framer-motion";
-import "../../App.css";
+import ExperienceNew from "../experience/ExperienceNew";
+import FooterNew from "../footer/FooterNew";
+import { FaHeartbeat } from "react-icons/fa";
 
 const Main = () => {
 	const carouselRef = useRef(null);
@@ -25,12 +28,21 @@ const Main = () => {
 				<AboutNew />
 				<DescriptionNew />
 				<Skills />
+				<ExperienceNew />
+				<FooterNew />
+				<div className='end-quote'>
+					Made with{" "}
+					<span>
+						<FaHeartbeat />{" "}
+					</span>
+				</div>
 			</div>
 		</div>
 	);
 };
 
 export default Main;
+
 const mainStyles = {
 	outerContainer: {
 		width: "100%",
