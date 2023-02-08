@@ -62,7 +62,7 @@ body {
 
 }
 ul {
-  list-style-type: none;
+  /* list-style-type: none; */
 }
 a {
   text-decoration: none;
@@ -165,10 +165,8 @@ p {
   height: 0.25rem;
   margin-bottom: 1.25rem;
   background: var(--clr-primary-0);
-  /* margin-left: auto;
-  margin-right: auto; */
-  animation-name: underlineAn;
-  animation-duration: 5s;
+  animation: underlineAn 5s infinite;
+
 }
 .title {
  

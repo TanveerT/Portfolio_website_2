@@ -7,7 +7,7 @@
   }
 
 .end-quote{
-  color:lightblue;
+  color:var(--clr-grey-5);
   text-align: center;
   margin:2rem 0rem 1rem 0rem;
   font-size:1rem;
@@ -15,7 +15,7 @@
 }
 .end-quote span{
   display: inline-block;
-  color:rgb(230, 105, 112);
+  color:var(--clr-primary-0);
   margin:0rem 0.1rem;
   vertical-align: top;
   font-size: 1.5rem;
@@ -32,7 +32,7 @@
     opacity: 0.3
   }
   50% {
-      opacity: 0.8;
+      opacity: 1;
   }
   75%{
     opacity: 0.3;
