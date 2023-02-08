@@ -1,10 +1,10 @@
 import "./App.css";
-import About from "./components/about/About";
-import Description from "./components/description/Description";
-import Experience from "./components/experience/Experience";
-import Certification from "./components/certification/Certification";
-import Footer from "./components/footer/Footer";
-import { FaHeartbeat } from "react-icons/fa";
+// import About from "./components/about/About";
+// import Description from "./components/description/Description";
+// import Experience from "./components/experience/Experience";
+// import Certification from "./components/certification/Certification";
+// import Footer from "./components/footer/Footer";
+// import { FaHeartbeat } from "react-icons/fa";
 import Main from "./components/main/Main";
 
 function App() {
