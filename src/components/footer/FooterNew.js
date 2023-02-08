@@ -40,6 +40,7 @@ function FooterNew() {
 				{iconlist.map((icon, index) => {
 					return (
 						<a
+							key={index}
 							href={icon.href}
 							target='_blank'
 							rel='noreferrer'
