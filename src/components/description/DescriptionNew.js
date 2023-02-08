@@ -3,7 +3,6 @@ import "../../App.css";
 import UseMediaQuery from "../commonComponents/UseMediaQuery";
 import "../../index.css";
 import photo from "./tanveerwater.jpg";
-import { motion } from "framer-motion";
 
 function DescriptionNew() {
 	const mobileView = UseMediaQuery("(max-width: 850px)");
@@ -41,12 +40,13 @@ function DescriptionNew() {
 							marginTop: "10%",
 							textAlign: "justify",
 						}}>
-						After Graduating from VR Siddhartha University. I have
-						experience working with Space Application Center (ISRO),
-						Infosys and Currenlty I'm working with Limendo,
-						Bangalore as Full Stack Developer where I work on wide
-						variety of interesting and meaningful projects on daily
-						basis
+						After Graduating from VR Siddhartha University with a
+						degree in Computer Science and Engineering in 2020. I
+						spend time working in Space Application Center (ISRO),
+						After I joind Infosys and Currenlty I'm working with
+						Limendo, Bangalore as Full Stack Developer where I work
+						on wide variety of interesting and meaningful projects
+						on daily basis
 					</p>
 					<p
 						style={{

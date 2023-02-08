@@ -62,7 +62,7 @@ const swipePower = (offset, velocity) => {
 	return Math.abs(offset) * velocity;
 };
 
-const Modal = ({ handleClose, mobileStatus, images }) => {
+const Modal = ({ handleClose, mobileStatus, images, setHover }) => {
 	// const mobileView = UseMediaQuery("(max-width: 850px)");
 	const [[page, direction], setPage] = useState([0, 0]);
 

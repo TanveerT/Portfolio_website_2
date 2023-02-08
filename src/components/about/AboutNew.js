@@ -1,13 +1,12 @@
-import React, { useState } from "react";
+import React from "react";
 import "../../App.css";
 import facelogo from "./facelogo.svg";
 import UseMediaQuery from "../commonComponents/UseMediaQuery";
 import "../../index.css";
-import { motion, LayoutGroup } from "framer-motion";
 
 const AboutNew = () => {
 	const mobileView = UseMediaQuery("(max-width: 850px)");
-	const [isOpen, setIsOpen] = useState(false);
+	// const [isOpen, setIsOpen] = useState(false);
 
 	return (
 		<div className='genericContainer' style={about.container(mobileView)}>
