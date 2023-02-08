@@ -15,13 +15,13 @@ function ExperienceDetails({ mobileView, experience }) {
 				/>
 			</div>
 			<div style={exp.detailsContainer(mobileView)}>
-				<h2>{experience.title}</h2>
-				<h4>
+				<h2 style={{ ...exp.title(mobileView) }}>{experience.title}</h2>
+				<h4 style={{ lineHeight: "1.5" }}>
 					{experience.CompanyDetails}
 					{" | "}
 					{experience.duration}
 				</h4>
-				<h4>Tech Stack : {teckStack}</h4>
+				<h4 style={{ lineHeight: "1.5" }}>Tech Stack : {teckStack}</h4>
 				<ul style={{ marginLeft: "10%" }}>
 					{experience.aboutlist.map((about, index) => {
 						return (
@@ -59,6 +59,10 @@ const exp = {
 		maxWidth: isMobile ? "75%" : "70%",
 	}),
 	detailsContainer: (isMobile) => ({
+		marginTop: isMobile ? "20px" : "0px",
 		flex: 1,
+	}),
+	title: (isMobile) => ({
+		// textAlign: isMobile ? "center" : "left",
 	}),
 };
