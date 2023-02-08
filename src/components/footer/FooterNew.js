@@ -3,7 +3,7 @@ import "../../index.css";
 import React from "react";
 import UseMediaQuery from "../commonComponents/UseMediaQuery";
 import Github from "../../assets/images/github.svg";
-import Facebook from "../../assets/images/facebook.svg";
+// import Facebook from "../../assets/images/facebook.svg";
 import Linkedin from "../../assets/images/linkedin.svg";
 
 const iconlist = [
@@ -45,7 +45,11 @@ function FooterNew() {
 							target='_blank'
 							rel='noreferrer'
 							style={{ padding: "10px" }}>
-							<img src={icon.name} style={{ color: "#red" }} />
+							<img
+								src={icon.name}
+								style={{ color: "#red" }}
+								alt='icon'
+							/>
 						</a>
 					);
 				})}
