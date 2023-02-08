@@ -29,6 +29,7 @@ const Header = () => {
 						style={{
 							width: mobileView ? "20px" : "30px",
 						}}
+						alt='resume icon'
 					/>
 				</div>
 				<div
