@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.11cd78fd.css",
-    "main.js": "/static/js/main.77bfdc0f.js",
+    "main.js": "/static/js/main.00e34f2f.js",
     "static/media/HACK-RANK.png": "/static/media/HACK-RANK.36054e86ec244c700335.png",
     "static/media/tanveerwater.jpg": "/static/media/tanveerwater.a788ff4845bdfec85c60.jpg",
     "static/media/Django.jpg": "/static/media/Django.a901b0003353647dfb85.jpg",
@@ -33,10 +33,10 @@
     "static/media/linkedin.svg": "/static/media/linkedin.27a3f479ca1bbb0ceef19e395081fb94.svg",
     "static/media/microsoft_azure-icon.svg": "/static/media/microsoft_azure-icon.2d5c387bfd20efea0cbb2ba141ad60a0.svg",
     "main.11cd78fd.css.map": "/static/css/main.11cd78fd.css.map",
-    "main.77bfdc0f.js.map": "/static/js/main.77bfdc0f.js.map"
+    "main.00e34f2f.js.map": "/static/js/main.00e34f2f.js.map"
   },
   "entrypoints": [
     "static/css/main.11cd78fd.css",
-    "static/js/main.77bfdc0f.js"
+    "static/js/main.00e34f2f.js"
   ]
 }
