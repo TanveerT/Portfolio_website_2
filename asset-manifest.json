@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_website_2/static/css/main.11cd78fd.css",
-    "main.js": "/Portfolio_website_2/static/js/main.0129874f.js",
+    "main.js": "/Portfolio_website_2/static/js/main.b550c0e1.js",
     "static/media/HACK-RANK.png": "/Portfolio_website_2/static/media/HACK-RANK.36054e86ec244c700335.png",
     "static/media/tanveerwater.jpg": "/Portfolio_website_2/static/media/tanveerwater.a788ff4845bdfec85c60.jpg",
     "static/media/Django.jpg": "/Portfolio_website_2/static/media/Django.a901b0003353647dfb85.jpg",
@@ -17,26 +17,26 @@
     "static/media/DP-900.jpeg": "/Portfolio_website_2/static/media/DP-900.39805a3e060fca339588.jpeg",
     "static/media/AI-900.jpeg": "/Portfolio_website_2/static/media/AI-900.01372fce3da1b95f83ef.jpeg",
     "static/media/AZ-900.jpeg": "/Portfolio_website_2/static/media/AZ-900.7aa0c3f99dab3758ec39.jpeg",
-    "static/media/TANVEERAHAMED_07022023.pdf": "/Portfolio_website_2/static/media/TANVEERAHAMED_07022023.2b576039c3342c76298c.pdf",
+    "static/media/TANVEER_AHAMED.pdf": "/Portfolio_website_2/static/media/TANVEER_AHAMED.0a1ebd7b9efa7df788f6.pdf",
     "static/media/isro.svg": "/Portfolio_website_2/static/media/isro.11e0be7c1167d9fa2d746de5db5918ea.svg",
     "static/media/facelogo.svg": "/Portfolio_website_2/static/media/facelogo.7d7b5f6118eaaa45b70e8d098750ff8d.svg",
     "static/media/infosys.svg": "/Portfolio_website_2/static/media/infosys.a60fe461df9ce863ffcc0b3887a01dcd.svg",
     "static/media/limendo.svg": "/Portfolio_website_2/static/media/limendo.db9fec653f58778a492843bcbfaefa55.svg",
+    "index.html": "/Portfolio_website_2/index.html",
     "static/media/nodejs-icon.svg": "/Portfolio_website_2/static/media/nodejs-icon.502737ea1f44b9be4170cafd2bace4e7.svg",
     "static/media/resume.svg": "/Portfolio_website_2/static/media/resume.8293f0d81674f47125a33a7e17297518.svg",
     "static/media/python-icon.svg": "/Portfolio_website_2/static/media/python-icon.439dd3d27dbba23fa07acb94633c7a7d.svg",
     "static/media/reactjs-icon.svg": "/Portfolio_website_2/static/media/reactjs-icon.6c1d44b8c59f0f72ff199a54ceed774c.svg",
-    "index.html": "/Portfolio_website_2/index.html",
     "static/media/github.svg": "/Portfolio_website_2/static/media/github.04be58c17b3d5e9744424d414240dd85.svg",
     "static/media/expressjs-icon.svg": "/Portfolio_website_2/static/media/expressjs-icon.632d3c32e6c8f71f7f7faf4fb71b945b.svg",
     "static/media/git-scm-icon.svg": "/Portfolio_website_2/static/media/git-scm-icon.6d27b5e0cde4ddb87e031ca706aa8350.svg",
     "static/media/linkedin.svg": "/Portfolio_website_2/static/media/linkedin.27a3f479ca1bbb0ceef19e395081fb94.svg",
     "static/media/microsoft_azure-icon.svg": "/Portfolio_website_2/static/media/microsoft_azure-icon.2d5c387bfd20efea0cbb2ba141ad60a0.svg",
     "main.11cd78fd.css.map": "/Portfolio_website_2/static/css/main.11cd78fd.css.map",
-    "main.0129874f.js.map": "/Portfolio_website_2/static/js/main.0129874f.js.map"
+    "main.b550c0e1.js.map": "/Portfolio_website_2/static/js/main.b550c0e1.js.map"
   },
   "entrypoints": [
     "static/css/main.11cd78fd.css",
-    "static/js/main.0129874f.js"
+    "static/js/main.b550c0e1.js"
   ]
 }
