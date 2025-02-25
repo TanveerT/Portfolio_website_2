@@ -2,7 +2,7 @@ import React from "react";
 import "../../App.css";
 import UseMediaQuery from "../commonComponents/UseMediaQuery";
 import Resume from "../../assets/images/resume.svg";
-import TanveerAhamed from "../../assets/files/TANVEERAHAMED_07022023.pdf";
+import TanveerAhamed from "../../assets/files/TANVEER_AHAMED.pdf";
 
 const Header = () => {
 	const mobileView = UseMediaQuery("(max-width: 850px)");
