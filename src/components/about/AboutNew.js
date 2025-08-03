@@ -32,7 +32,7 @@ const AboutNew = () => {
 							fontSize: "1.2rem",
 							color: "var(--clr-grey-2)",
 						}}>
-						I'm Software Developer from Bangalore, India.
+						I'm Software Developer from Hyderabad, India.
 					</p>
 				</div>
 			</div>

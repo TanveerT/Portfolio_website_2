@@ -26,7 +26,7 @@ function DescriptionNew() {
 							textAlign: "justify",
 						}}>
 						I'm Tanveer Ahamed, a Software Engineer with a passion
-						for Technology. I have 4+ years of experience in the
+						for Technology. I have 5+ years of experience in the
 						industry and I enjoy nothing more than learning the
 						trends that technology is taking in order to work more
 						efficiently and see progress and success. I love
