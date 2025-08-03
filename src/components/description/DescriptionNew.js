@@ -43,7 +43,7 @@ function DescriptionNew() {
 						After Graduating from VR Siddhartha University with a
 						degree in Computer Science and Engineering in 2020. I
 						spend time working in Space Application Center (ISRO),
-						After I joind Infosys and Currenlty I'm working with
+						After I joined Infosys and Currenlty I'm working with
 						Limendo, Bangalore as Full Stack Developer where I work
 						on wide variety of interesting and meaningful projects
 						on daily basis
