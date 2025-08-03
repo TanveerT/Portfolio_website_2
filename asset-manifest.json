@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_website_2/static/css/main.11cd78fd.css",
-    "main.js": "/Portfolio_website_2/static/js/main.bb033ef6.js",
+    "main.js": "/Portfolio_website_2/static/js/main.ee875a4c.js",
     "static/media/HACK-RANK.png": "/Portfolio_website_2/static/media/HACK-RANK.36054e86ec244c700335.png",
     "static/media/tanveerwater.jpg": "/Portfolio_website_2/static/media/tanveerwater.a788ff4845bdfec85c60.jpg",
     "static/media/Django.jpg": "/Portfolio_website_2/static/media/Django.a901b0003353647dfb85.jpg",
@@ -33,10 +33,10 @@
     "static/media/linkedin.svg": "/Portfolio_website_2/static/media/linkedin.27a3f479ca1bbb0ceef19e395081fb94.svg",
     "static/media/microsoft_azure-icon.svg": "/Portfolio_website_2/static/media/microsoft_azure-icon.2d5c387bfd20efea0cbb2ba141ad60a0.svg",
     "main.11cd78fd.css.map": "/Portfolio_website_2/static/css/main.11cd78fd.css.map",
-    "main.bb033ef6.js.map": "/Portfolio_website_2/static/js/main.bb033ef6.js.map"
+    "main.ee875a4c.js.map": "/Portfolio_website_2/static/js/main.ee875a4c.js.map"
   },
   "entrypoints": [
     "static/css/main.11cd78fd.css",
-    "static/js/main.bb033ef6.js"
+    "static/js/main.ee875a4c.js"
   ]
 }
