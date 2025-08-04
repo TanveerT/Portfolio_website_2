@@ -8,7 +8,7 @@ const experience = [
 		CompanyDetails: "Limendo, Bangalore, India",
 		title: "Software Developer",
 		duration: "June,2022 - Present",
-		teckStack: ["React", "React Native", "Node", "Gen AI"],
+		teckStack: ["React", "React Native", "Node", "Gen AI", "Python"],
 		aboutlist: [
 			"Designed and developed the frontend of the Kassa (POS) application. Implemented key features including cart management, combo flow and complete order process flow.",
 			"Focused on creating an intuitive and efficient UI to streamline retail operations and enhance end-user satisfaction.",
